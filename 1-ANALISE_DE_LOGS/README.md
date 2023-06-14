@@ -1,4 +1,4 @@
-# DESEC_FEATURES
+# ANALISADOR DE LOGS
 
 DESCRIÇÃO: Script para analise do arquivos de access.log do Apache 2
 CRIADOR: João Eduardo
